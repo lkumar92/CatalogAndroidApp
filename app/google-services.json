@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156924708828",
+    "firebase_url": "https://catalogandroidapp.firebaseio.com",
+    "project_id": "catalogandroidapp",
+    "storage_bucket": "catalogandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156924708828:android:6d6bdc69bb49f585",
+        "android_client_info": {
+          "package_name": "lkum.com.catalogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156924708828-a0dpmgvnns1cc845ekub3ip886ca1uq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lkum.com.catalogapp",
+            "certificate_hash": "acf33ec2a2dcad949aa3319d589d6777ea95b072"
+          }
+        },
+        {
+          "client_id": "156924708828-8nlpaen503llnsc9sijk62t0qder9ns2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2Mp6vZX5yte0xZzqP5YEpLsBAJ8kv_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156924708828-8nlpaen503llnsc9sijk62t0qder9ns2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

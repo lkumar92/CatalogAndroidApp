@@ -16,10 +16,10 @@ public class WelcomePage extends AppCompatActivity {
 
     public void toMainPage(View v) {
         // does something very interesting
-        Toast toast = Toast.makeText(this, "Redirecting to Main Page", Toast.LENGTH_SHORT);
-        toast.show();
+        //Toast toast = Toast.makeText(this, "Redirecting to Main Page", Toast.LENGTH_SHORT);
+        //toast.show();
         Intent myIntent = new Intent(WelcomePage.this,
-                MainPage.class);
+                CategoryListView.class);
         startActivity(myIntent);
         //startActivity(myIntent);
     }
